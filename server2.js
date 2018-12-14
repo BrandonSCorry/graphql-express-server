@@ -47,7 +47,7 @@ var jedisData = [
     photo: 'url'
   },
   {
-    id: 3,
+    id: 4,
     name: 'Mace Windu',
     age: 45,
     description: 'Wants Anakin to take a seat. Played by Samuel L Jackson.',
